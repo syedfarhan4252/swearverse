@@ -1,0 +1,13 @@
+{
+  "name": "SwearVerse",
+  "short_name": "SwearVerse",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#FF3D00",
+  "icons": [{
+    "src": "/icon-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
